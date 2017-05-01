@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					2737BE691EB7CCD000E9BCFE = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = KEKFU6H295;
 						ProvisioningStyle = Automatic;
 					};
 					2737BE7D1EB7CCD000E9BCFE = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KEKFU6H295;
 				INFOPLIST_FILE = MagicalGrid/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AaronJeffreyLiu.MagicalGrid;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KEKFU6H295;
 				INFOPLIST_FILE = MagicalGrid/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.AaronJeffreyLiu.MagicalGrid;
